@@ -14,6 +14,6 @@ WebAI is a powerful and flexible toolkit for automating web tasks. With a focus 
 To get started with WebAI, clone the repository and install the required dependencies.
 
 ```bash
-git clone https://github.com/yourusername/WebAI.git
+git clone https://github.com/Python840/WebAI.git
 cd WebAI
 pip install -r requirements.txt
