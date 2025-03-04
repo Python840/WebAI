@@ -1,3 +1,5 @@
+# I NO LONGER CARE ABOUT THIS PROJECT! IF YOU WANT TO MAKE CHANGES, SIMPLY CLONE IT AND DEVELOP IT ON YOUR OWN!
+
 # WebAI: Open-Source Web Automation Toolkit
 
 <p align="center">
